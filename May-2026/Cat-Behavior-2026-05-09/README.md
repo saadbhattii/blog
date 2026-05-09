@@ -1,4 +1,4 @@
-## Cat Behavior - 9th May 2026
+# Cat Behavior
 
 There are three basic concepts from quantum mechanics that are leveraged by a quantum computer: superposition, interference, and entanglement.  
 
